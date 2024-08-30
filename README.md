@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Caio Henrique!</h1>
+<h1 align="center">Oi 👋, eu sou Caio Henrique!</h1>
 <h3 align="center">Um desenvolvedor Full Stack apaixonado.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiohenrqq&label=Profile%20views&color=0e75b6&style=flat" alt="caiohenrqq" /> </p>
@@ -9,7 +9,7 @@
 
 - 📫 Converse comigo por **caiohenrqq.profissional@gmail.com**.
 
-- 📄 Conheça minhas experiências [CV](https://docs.google.com/document/d/1443FX4O3xHrvA9D2FZ5XbfHuyVFRaxrob2m2RLZsUFk/edit?usp=sharing)
+- 📄 Conheça minhas experiências [CV](https://docs.google.com/document/d/1443FX4O3xHrvA9D2FZ5XbfHuyVFRaxrob2m2RLZsUFk/edit?usp=sharing).
 
 - ⚡ Fato interessante **já venci dois cancêrs**.
 
