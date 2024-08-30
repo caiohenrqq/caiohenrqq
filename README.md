@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Caio Henrique!</h1>
-<h3 align="center">Um desenvolvedor Full Stack apaixonado.</h3>
+<h3 align="center">Sou um desenvolvedor Full Stack apaixonado.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiohenrqq&label=Profile%20views&color=0e75b6&style=flat" alt="caiohenrqq" /> </p>
 
