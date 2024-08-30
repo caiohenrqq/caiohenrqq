@@ -11,7 +11,7 @@
 
 - 📄 Conheça minhas experiências [CV](https://docs.google.com/document/d/1443FX4O3xHrvA9D2FZ5XbfHuyVFRaxrob2m2RLZsUFk/edit?usp=sharing).
 
-- ⚡ Um fato interessante sobre é que **já venci dois cancêrs**.
+- ⚡ Um fato interessante sobre é que **já venci dois cânceres**.
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
