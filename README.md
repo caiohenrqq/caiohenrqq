@@ -9,7 +9,7 @@
 
 - 📫 Converse comigo por **caiohenrqq.profissional@gmail.com**.
 
-- 📄 Conheça minhas experiências [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/cv-geral.pdf).
+- 📄 Conheça minhas experiências [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/Resume%20-%20December%202024.pdf).
 
 - ⚡ Um fato interessante sobre é que **já venci dois cânceres**.
 
