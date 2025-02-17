@@ -1,13 +1,13 @@
-<h1 align="center">Oi 👋, eu sou Caio Henrique!</h1>
-<h3 align="center">Sou um desenvolvedor Full Stack apaixonado.</h3>
+<h1 align="center">Hello 👋, I am Caio Henrique!</h1>
+<h3 align="center">I'm a Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiohenrqq&label=Profile%20views&color=0e75b6&style=flat" alt="caiohenrqq" /> </p>
 
 - 🔭 Eu atualmente estou trabalhando em [AcademicHub](https://github.com/caiohenrqq/academic-hub).
 
-- 💬 Pergunte-me sobre **desenvolvimento web**.
+- 💬 Ask me about **technology**.
 
-- 📫 Converse comigo por **caiohenrqq.profissional@gmail.com**.
+- 📫 Talk with me by **caiohenrqq.profissional@gmail.com**.
 
 - 📄 Conheça minhas experiências [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/Resume%20-%20December%202024.pdf).
 
