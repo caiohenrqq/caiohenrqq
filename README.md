@@ -8,6 +8,7 @@
 - 📫  Reach out to me at **caiohenrqq.profissional@gmail.com**.
 
 - 📄 Check out my experiences in my [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/cv-in-english.pdf).
+- 📄 Confira minhas experiências em meu [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/cv.pdf).
 
 - ⚡ An interesting fact about me is that I’ve overcome two cancers.
 
