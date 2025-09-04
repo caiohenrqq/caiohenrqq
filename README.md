@@ -7,7 +7,7 @@
 
 - 📫  Reach out to me at **caiohenrqq.profissional@gmail.com**.
 
-- 👤 Check my [portfolio](caiohenrique.vercel.app).
+- 👤 Check my [portfolio](https://caiohenrique.vercel.app/).
 
 - 📄 Check out my experiences in my [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/cv-english.pdf).
 - 📄 Confira minhas experiências em meu [Curriculum Vitae](https://github.com/caiohenrqq/curriculum-vitae/blob/main/cv.pdf).
