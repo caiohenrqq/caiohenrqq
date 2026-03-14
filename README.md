@@ -9,8 +9,8 @@
 
 - 👤 Check my [portfolio](https://caiohenrique.vercel.app/).
 
-- 📄 Check out my experiences in my [Curriculum Vitae](https://drive.google.com/file/d/10QEFlc6tLVQn_uRYGtOsUagD4m1INESM/view).
-- 📄 Confira minhas experiências em meu [Curriculum Vitae](https://drive.google.com/file/d/1GZZf5fECIheKfD-hqqNcklbQO6Ah0a0N/view).
+- 📄 Check out my experiences in my [Curriculum Vitae](https://drive.google.com/file/d/1WPNtDNPoM6NLd9-Q_k4lJt1fv_iKY2JQ/view).
+- 📄 Confira minhas experiências em meu [Curriculum Vitae](https://drive.google.com/file/d/199AtM5z_wXiuiB62qrDdCGO6xloW1V3p/view).
 
 - ⚡ An interesting fact about me is that I’ve overcome two cancers.
 
